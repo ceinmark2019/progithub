@@ -11,6 +11,7 @@ public class Clase {
 
                 System.out.println("hola desde Netbeans");
                 System.out.println("hola desde Eclipse");
+                System.out.println("hola, otra vez");
                               
 
 	}
