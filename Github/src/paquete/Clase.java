@@ -10,6 +10,7 @@ public class Clase {
 		System.out.println("Un saludo desde Eclipse 1");
 
                 System.out.println("hola desde Netbeans");
+                System.out.println("hola desde Eclipse");
                 System.out.println("hola, estais ahi?");
                               
 
