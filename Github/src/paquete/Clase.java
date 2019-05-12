@@ -9,5 +9,7 @@ public class Clase {
                 //pregunta
                 System.out.println("Como estas?");
         
+        System.out.println("adios Github");               
+
 	}
 }
