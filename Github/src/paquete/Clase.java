@@ -8,6 +8,6 @@ public class Clase {
 		System.out.println("hola Github");
                 //pregunta
                 System.out.println("Como estas?");
-
+        
 	}
 }
